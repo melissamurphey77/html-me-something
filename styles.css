@@ -1,0 +1,67 @@
+body {
+    /* background-image: url(".images/patternCooler.jpeg");
+  background-repeat: repeat; */
+
+  background-image: url("images/patternCooler.jpg");
+  }
+
+.mainPage {
+    background-color: #F4F6F9;
+    box-align: center;
+    align-items: center;
+    position: relative;
+    width: 85%;
+    text-align: center;
+    padding: 30px 20px 30px 20px;
+    margin: 0 auto;
+ 
+}
+
+h1 {
+    background-color: #52407C;
+    color: white;
+    padding: 20px;
+    align-self: center;
+    text-align: center;
+    margin-bottom: 10px;
+    font-family: 'Caveat', cursive;
+    font-size: 50px;
+}
+
+h2{
+    font-family: 'Caveat', cursive;
+    font-size: 35px;
+
+}
+
+#left{
+    text-align: left;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.border{
+    border: 3px solid black;
+    margin-left: 6px;
+    margin-right: 6px;
+
+}
+
+section{
+    align-self: center;
+    text-align: center;
+}
+
+footer{
+    background-color: #52407C;
+    color: white;
+    padding: 20px;
+    align-self: center;
+    text-align: center;
+    padding-top: 5px;
+    margin-top: 10px;
+
+}
+
